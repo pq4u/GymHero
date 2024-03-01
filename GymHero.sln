@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymHero.Common", "GymHero.Common\GymHero.Common.csproj", "{E9675CC4-E576-420A-8DBF-278C3E4147BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{18C4E768-9456-47E1-AC31-A62846B8791C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9675CC4-E576-420A-8DBF-278C3E4147BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9675CC4-E576-420A-8DBF-278C3E4147BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9675CC4-E576-420A-8DBF-278C3E4147BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9675CC4-E576-420A-8DBF-278C3E4147BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E9675CC4-E576-420A-8DBF-278C3E4147BB} = {18C4E768-9456-47E1-AC31-A62846B8791C}
+	EndGlobalSection
+EndGlobal
